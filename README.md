@@ -28,9 +28,13 @@ other platforms to use this software.
    ```
 
 6. After Downloading scoop, you will have to download both opencv and llvm
+
    ```
    scoop install opencv llvm
    ```
+
+7. Setting up opencv in windows computer, in systems variables (link
+   |https://github.com/twistedfall/opencv-rust/issues/118#issuecomment-619608278)
 
 ### After cloning the software
 
